@@ -1,3 +1,3 @@
 Demo
 
-A start of something new
+A start of something new!
